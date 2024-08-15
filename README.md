@@ -26,4 +26,4 @@ This is a simple Quotes of day app This is a web application designed to provide
 
 ## Live Demo
 
-Check out the live demo [here](https://mohammed-fawzzi.github.io/Quotes-of-day/).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Quotes-of-Day/).
